@@ -10,3 +10,9 @@
   - git remote
   - git push
   - git pull
+- git branch: "Cabang / copyan dari repo"
+  - git branch
+  - git branch --all
+  - git branch nama-branch
+  - git checkout nama-branch
+  - git branch -d nama-branch
