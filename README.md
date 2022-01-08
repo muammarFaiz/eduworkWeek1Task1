@@ -16,3 +16,4 @@
   - git branch nama-branch
   - git checkout nama-branch
   - git branch -d nama-branch
+- git - GUI Tools: tutorial mengoperasikan sourcetree dan diffmerge
